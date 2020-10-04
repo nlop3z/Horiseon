@@ -16,5 +16,4 @@ Modified Horiseon source code to meet accessibility standards by cleaning up sou
 
 Screenshot of website can be found below:
 
-![Horiseon screenshot](/urban-octo-telegram-new/Develop/assets/images/horiseon-screenshot.PNG)
-Format: ![This is the screenshot!](url)
+![This is a screenshot of the Horiseon webpage](/Develop/assets/images/horiseon-screenshot.PNG)
